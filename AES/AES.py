@@ -1,7 +1,3 @@
-# AES-like minimal implementation (mantenint l'estructura original)
-# Autor: adaptat a partir del teu codi
-# Ús: Python 3
-
 # Addició (operador XOR)
 def xor(a,b):
   c = []
@@ -294,3 +290,4 @@ for i in range(0,16):
   n_hex = f"{n:02x}"
   estat_hex.append(n_hex)
 print("AQUEST ÉS L'ESTAT XIFRAT FINAL:",estat_hex)
+
