@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diffie-hellman-db",
+  "private_key_id": "49794e21735dc586323b1676f9015dfd5c4a3508",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqzb9VWI55Xi/0\n/0pWu0vG1LJaMNJbiE6Nsbu/D3cSeCHUOak3woRRiumf3JV8TUz4TUUQDvJhv4HW\nqnJowZFAwTsCEcMlat1zJ+WYf9H2VMN3wotisfvYtn6G0mDY3dw3BfJFjJ1SmwHB\nShTy0PN9Bsk3+bEP/0MIwBYzbOoHfkpdWQP3AHS76JEGz50Aa/agQxIpCcQvgsf1\naE5TGmHSDcwtI/QUdajzVj79youPGQHLTS2t5fttyIf0mahCZIS/LrtCkTvibGBO\nsIcqrXIeArZQUEyMFoLhyU8Cy3bMmR+XwwHhXLo8doqfQd2lVE3GR7WXhFRArN0r\nfs7Nouc5AgMBAAECggEADAYW2YW15eJVAuyzyX4+29zeP04fiNUEHqJr4ovOqIyv\naPa0LFozoV/jiV7oYQs6B2K9IV/D/VCTbc6q5if2NzZDFqa0c55dv30IAx/AYpRd\n/EDEOiroXT2fk5McwTeBCJiREQdQjd+elIJIDj3aXitLn/aiWctw5x1Kks0wfl1u\naQfuAbMM4+3Pl0Dq0VRMbBTRTb4wQfAUHivxtTr9dm0ZHUEX1Ggx5e+yseNU/tkd\n/r6fUA9HPUhQ/R1UCWW1MPcvZ9A3cZrQpnAYRU27wYxcoAOX1jhTyd1omzt+GOd8\n6sb+71Jc4FqwVXEUGkIfx7POwPgVr+BPEl9IIKoCGQKBgQDsrEPYWbdHTgwTyFzk\nyfomeqbGy14gUAnivcl2faoPu68WVM3WJ/7TyNSV1l8QcA2dsZTeJG5NjgHplJLo\nlruArjp1TRLnvqwpqQPdSeJWOAbmrVvufelnhtI9suQ3O+Jd6tJF2c5GdAVAMULK\n/wN5PnNdZkJSg1rbXtlMnYfLxQKBgQC4wHZNZnWQXiWKMnZEVlgw1/7Sc4igV6S6\nlmupL25zeAceQaTEsmSrtU7FD3JsbzFMhnHdIrlVjzrhqOTdNMLCDVOVViYra591\n6zBiOCIkAw2yX3CPj+3LBhxp3YGvPkefEDAXbjkSKktadXbtZcv8k2TliT7Ag5V8\nJLA+6P0g5QKBgQCyv3RKPZAf6YFTm5sVLLqiPzYgpE4Fx41/02kJ9eTwFwcorYn8\neZ6Lo31zYUHRL2AJPqq5j/hC2ML3AEBoLBeXG3+JQlnJ74clu8HwarHn/k6wADST\njkMu7nNxJ+AXG0JfPk/rc5HIQi4JCmtw12NvOcx1uRrUKOMBFcS2ia+bJQKBgCh7\nQ3DCOpBfkKovVGq04K4TJerHFfDMQ3P+8agolHMIocana4sN67EUESZstA2+b3bt\nHpXtvd5Ze/VmJH+zx9jtQps+PS7WbiJQXlGnKxPo919WOju6tcf+lss7leboJplb\n2q3HoQmx6sDvbBeoboHxafJBmFZmfqKtB1FBi/VhAoGAXQnXQHlEZ3hscTuaHiL/\nGcx75ja2ZXAtcf3wUUXc6prQFP7vWO35ANJ1zkiWt2zSIN7c5uUkr3PaIA22FuKx\nQ9wuCiCsH+AdWl6sdItV/fbmXGsludFk5u4DzhtGlAqNBeARNp3tXTTmjAzYDcyQ\n3XuYEcR+6Vy4XD+dakVmafY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@diffie-hellman-db.iam.gserviceaccount.com",
+  "client_id": "118061266093038530643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40diffie-hellman-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
